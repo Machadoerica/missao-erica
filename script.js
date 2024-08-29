@@ -48,7 +48,7 @@ const perguntas = [
     }
 ];
 
-let atual = O;
+let atual = 0;
 let perguntaAtual;
 let historiaFinal = "";
 
